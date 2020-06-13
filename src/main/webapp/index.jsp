@@ -181,18 +181,12 @@ a{
 							
 		<div class="white-panel">
 			<div class="login-show">
-				<h2>LOGIN</h2>
-				<input type="text" placeholder="Email">
-				<input type="password" placeholder="Password">
-				<input type="button" value="Login">
-				<a href="">Forgot password?</a>
+				<h4>DESPLEGADO</h4>
+
 			</div>
 			<div class="register-show">
 				<h2>REGISTER</h2>
-				<input type="text" placeholder="Email">
-				<input type="password" placeholder="Password">
-				<input type="password" placeholder="Confirm Password">
-				<input type="button" value="Register">
+
 			</div>
 		</div>
 	</div>
