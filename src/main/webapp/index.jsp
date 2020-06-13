@@ -160,28 +160,27 @@ a{
   color:#2c7715;
 }
 
+h4{
+background-color: rgba(236, 48, 20, 0.9);
+}
 </style>
 	
 </head>
 <body>
 	<div class="login-reg-panel">
 		<div class="login-info-box">
-			<h3>Have an account?</h3>
-			<p>Lorem ipsum dolor sit amet</p>
-			<label id="label-register" for="log-reg-show">Login</label>
-			<input type="radio" name="active-log-panel" id="log-reg-show"  checked="checked">
+
 		</div>
 							
 		<div class="register-info-box">
 			<h2>Proceso Exitoso</h2>
 			<p>Edwin Alberto Hurtado Garcia</p>
-			<label id="label-login" for="log-login-show">Register</label>
-			<input type="radio" name="active-log-panel" id="log-login-show">
+
 		</div>
 							
 		<div class="white-panel">
 			<div class="login-show">
-				<h4>DESPLEGADO</h4>
+				<H4>DESPLEGADO</h4>
 
 			</div>
 			<div class="register-show">
